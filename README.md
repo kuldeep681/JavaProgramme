@@ -1,1 +1,2 @@
-Java Assignments from 1-10.
+Core Java Assignments Kuldeep Mandal MCA-1A
+Enrollment number - A354145024004
